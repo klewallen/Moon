@@ -4,6 +4,9 @@ title: About Kevin
 comments: false
 ---
     
+<img src="assets/img/Lounging-with-wombat.jpg" alt="hi" class="inline"/>
+
+
 <center>“We are drowning in information, while starving for wisdom.”
     <b> E.O. Wilson</b></center>
 
