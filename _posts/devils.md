@@ -1,10 +1,11 @@
 ---
 title: "Tasmanian Devil"
-layout: page
+layout: post
 excerpt: "Susceptibility to Transmissible Cancer"
 project: true
 comments: false
 ---
+
 
 ## Susceptibility to Transmissible Cancer
 The independent 
