@@ -1,8 +1,6 @@
 ---
 title: "Tasmanian Devil"
-layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
+layout: page
 excerpt: "Susceptibility to Transmissible Cancer"
 project: true
 comments: false
