@@ -16,3 +16,6 @@ comments: false
 
 I am a Ph.D. student in Paul Hohenlohe's lab at the University of Idaho. I study the genomic evolution in the Tasmanian devil. My primary interest is how and why genomes change over time. Tasmanian devils are in the midst of a serious epidemic that is threatening the existence of the entire species. I am interested in the evolutionary history that brought them here.
 
+## Past work
+
+[CV](/Lewallen-CV-2018-2.pdf)
