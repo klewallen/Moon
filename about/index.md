@@ -15,7 +15,7 @@ comments: false
 
 ## Current work
 
-I am a Ph.D. student in Paul Hohenlohe's lab at the University of Idaho. My primary interest is how and why genomes change over time. I study genomic evolution in two systems: the Tasmanian devil and the Island Scrub Jay.
+I am a Ph.D. student in [Paul Hohenlohe's](http://hohenlohelab.github.io/) lab at the University of Idaho. My primary interest is how and why genomes change over time. I study genomic evolution in two systems: the Tasmanian devil and the Island Scrub Jay.
 
 ## Past work
 
